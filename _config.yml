@@ -78,7 +78,7 @@ owner:
 ## sidebar links:
 # For external links add external: true
 links:
-  - title: <i class="iconside iconm-home"></i> Home
+  - title: <i class="iconside iconm-home"></i> Home...
     url: /
   - title: <i class="iconside iconm-user"></i> About
     url: /about/
